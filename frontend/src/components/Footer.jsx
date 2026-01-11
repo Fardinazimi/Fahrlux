@@ -22,14 +22,14 @@ export default function Footer() {
             <h5 className="fw-bold">Kontakt</h5>
             <ul className="list-unstyled">
               <li>
-                <strong>Adresse:</strong> Lombay Straße 15 A, 63452 Hanau,
+                <strong>Adresse:</strong> Pappelwg 5 , 63452 Hanau,
                 Deutschland
               </li>
               <li>
-                <strong>Telefon:</strong> +49 176 317 53301
+                <strong>Contact:</strong> +49 173 795 1785
               </li>
               <li>
-                <strong>Email:</strong> info@limousine-service.de
+                <strong>Email:</strong> info@fahrlux-hanau.de
               </li>
             </ul>
           </div>
