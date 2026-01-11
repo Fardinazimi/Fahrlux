@@ -13,7 +13,7 @@ export default function Header() {
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
       <div className="container">
         <Link className="navbar-brand" to="/">
-          Hanau Limousine & Fahrservie
+          Fahrlux Service
         </Link>
         <button
           className="navbar-toggler"

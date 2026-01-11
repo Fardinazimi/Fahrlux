@@ -27,7 +27,7 @@ export default function Hero() {
       {/* Hero content */}
       <div className="position-relative px-3">
         <h1 className="display-4 fw-bold mb-3">
-          Hanau Limousine Service
+          Fahrlux Limousine Service
         </h1>
         <p className="lead mb-4">
           Exklusive Fahrten. Premium Komfort. Professionelle Chauffeure.
